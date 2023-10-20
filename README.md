@@ -14,6 +14,10 @@ coding practice in Python!
 3. textToSpeech (3/40)
 
   ![3.textToSpeech](3.textToSpeech/secondTTS.mp3)
+<audio controls>
+    <source src='./3.textToSpeech/secondTTS.mp3'>
+</audio>
+
 
 4. QRCodeGenerate (4/40)
 
