@@ -17,5 +17,5 @@ coding practice in Python!
 
 4. QRCodeGenerate (4/40)
 
-![4.QRCodeGenerate](4.QRCodeGenerate/www.github.com%2FLimsWeb.png)
+![4.QRCodeGenerate](4.QRCodeGenerate/github_LimsWeb.png)
 
