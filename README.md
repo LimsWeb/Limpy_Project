@@ -23,3 +23,7 @@ coding practice in Python!
 
   ![4.QRCodeGenerate](4.QRCodeGenerate/github_LimsWeb.png)
 
+5. cpuCheck
+
+  ![5.cpuCheck1](5.cpuCheck/5.cpuCheck.png)
+  ![5.cpuCheck2](5.cpuCheck/5.cpuCheck2.png)  
