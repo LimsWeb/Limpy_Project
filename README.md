@@ -26,4 +26,5 @@ coding practice in Python!
 5. cpuCheck
 
   ![5.cpuCheck1](5.cpuCheck/5.cpuCheck.png)
+  
   ![5.cpuCheck2](5.cpuCheck/5.cpuCheck2.png)  
